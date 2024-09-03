@@ -1,6 +1,8 @@
 # GENai-chat
 Welcome to the GENai-chat Chatbot repository! This project showcases an interactive chatbot powered by Google’s Generative AI models. The chatbot engages in conversations with users, generating responses based on the gemini-pro model.
+
 colab:-https://colab.research.google.com/drive/1dAIK6IPyd7eq0Jp86qlfcZIy-U-m9hsF?usp=sharing
+
 About the Creator:
 This chatbot was developed by Abhinandan Parhi. Connect with Abhinandan on LinkedIn: [Abhinandan Parhi](https://www.linkedin.com/in/abhinandan-parhi-ap).
 
