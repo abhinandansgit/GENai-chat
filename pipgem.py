@@ -2,7 +2,7 @@
 !pip install gradio google-generativeai
 import os
 import google.generativeai as genai
-%env GOOGLE_API_KEY=<AIzaSyDumCbUhY9MLOcYLbkCn7kiuD5a01Hz6V0> 
+%env GOOGLE_API_KEY=<*******************> 
 !python gemini_bot.py
 import google.generativeai as genai
 %env GENERATIVE_AI_ENDPOINT=https://generativelanguage.googleapis.com
